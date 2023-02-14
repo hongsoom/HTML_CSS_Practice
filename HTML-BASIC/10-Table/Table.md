@@ -12,8 +12,8 @@
 th가 5개면 td도 무조건 5개여야 한다.
 만약 들어갈 데이터가 없다면 빈태그라도 작성해야 한다.
 
-➕ <thead> <tbody>
-    조금 더 
+➕ <thead> <tbody> <tfoot>
+    머리, 본문, 바닥을 명시해주는 태그
   <thead>
         <tr>
             <th>ID</th>
@@ -26,6 +26,14 @@ th가 5개면 td도 무조건 5개여야 한다.
             <td>홍수민</td>
         </tr>
     </tbody>
+
+➕ rowspan, colspan
+rowspan = "숫자" : 행으로 차지하는 개수
+colspan = "숫자" : 열로 차지하는 개수
+
+➕ scope
+scope = "row/col" : 세로줄의 헤더인지, 가로줄의 헤더인지 명시해주는 역할
+테이블 헤더에게만 사용 가능
 ```
 
 ### 예시)
