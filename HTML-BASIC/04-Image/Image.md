@@ -14,8 +14,8 @@ src ① 절대 경로 "http://~" ② 상대 경로 "./images/cat.jpg"
 <img src="https://bit.ly/2mvVsGI" alt="개와 고양이">
 ```
 
-<img scr="./cat.png" alt="고양이">
+<img src="./cat.png" alt="고양이">
 
 ```HTML
-<img scr="./cat.png" alt="고양이">
+<img src="./cat.png" alt="고양이">
 ```
