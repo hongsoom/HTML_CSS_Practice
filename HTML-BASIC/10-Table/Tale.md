@@ -66,14 +66,6 @@ th가 5개면 td도 무조건 5개여야 한다.
         <tr>
             <th>4교시</th>
             <td>SASS 기초반</td>
-            <td>HTML &amp; CSS 포토폴리오반</td>
-            <td>Open Semin ar</td>
-            <td>HTML &amp; CSS 포토폴리오반</td>
-            <td>SASS 기초반</td>
-        </tr>
-        <tr>
-            <th>4교시</th>
-            <td>SASS 기초반</td>
             <td rowspan="2">HTML &amp; CSS 포토폴리오반</td>
             <td rowspan="2">Open Semin ar</td>
             <td rowspan="2">HTML &amp; CSS 포토폴리오반</td>
@@ -121,14 +113,6 @@ th가 5개면 td도 무조건 5개여야 한다.
         </tr>
         <tr>
             <th colspan="6">점심시간</th>
-        </tr>
-        <tr>
-            <th>4교시</th>
-            <td>SASS 기초반</td>
-            <td>HTML &amp; CSS 포토폴리오반</td>
-            <td>Open Semin ar</td>
-            <td>HTML &amp; CSS 포토폴리오반</td>
-            <td>SASS 기초반</td>
         </tr>
         <tr>
             <th>4교시</th>
