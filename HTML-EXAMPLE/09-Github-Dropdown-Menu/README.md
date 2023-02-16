@@ -1,7 +1,7 @@
 ## Github Dropdown Menu
 
 ### Screenshot
-<img src="./assets/Github-Dropdown-Menu.PNG" alt="헤더">
+<img src="./assets/Github-Dropdown-Menu.PNG" alt="Github Dropdown Menu">
 
 ### 배운 내용
 비슷한 구조의 항목들이 나란히 연결이 되어있을 때 
