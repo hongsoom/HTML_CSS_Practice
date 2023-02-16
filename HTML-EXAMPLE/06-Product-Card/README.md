@@ -1,7 +1,7 @@
 ## Product Card
 
 ### Screenshot
-<img src="./assets/Product-Card.PNG" alt="헤더">
+<img src="./assets/Product-Card.PNG" alt="Product Card">
 
 ### 배운 내용
 - aria-hidden <br/>
