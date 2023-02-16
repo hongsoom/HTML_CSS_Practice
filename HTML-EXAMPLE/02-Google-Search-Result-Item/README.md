@@ -1,11 +1,13 @@
 ## Google Search Result Item
 
 ### Screenshot
-<img src="./Google-Search-Result-Item.png" alt="구글검색결과">
+<img src="./Google-Search-Result-Item.PNG" alt="구글검색결과">
 
 ### 배운 내용
 ```HTML
-<div>란 어떤 것인지 <span>이란 어떤 것인지 텍스트로 설명하고 싶은데 그냥 <div> <span>이라고 적으면 HTML은 텍스트로 인식을 안하고 태그로 인식하기에 `HTML Escape Code`를 사용해줘야 한다.
+<div>란 어떤 것인지 <span>이란 어떤 것인지 텍스트로 설명하고 싶은데 그냥 <div> <span>이라고 적으면 
+HTML은 텍스트로 인식을 안하고 태그로 인식하기에 
+`HTML Escape Code`를 사용해줘야 한다.
 ```
 
 <a href="https://mateam.net/html-escape-characters/">
