@@ -1,7 +1,7 @@
 ## Logo in Header
 
 ### Screenshot
-<img src="./Logo-in-Header.PNG" alt="헤더">
+<img src="./assets/Logo-in-Header.PNG" alt="헤더">
 
 ### 배운 내용
 페이지 전체의 제목인데 텍스트가 아니고 이미지일 경우,

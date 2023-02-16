@@ -1,7 +1,7 @@
 ## Feature Box
 
 ### Screenshot
-<img src="./Feature-Box.PNG" alt="Feature Box">
+<img src="./assets/Feature-Box.PNG" alt="Feature Box">
 
 ### 배운 내용
 만약, 이미지가 내용에 별로 중요하지 않다고 느껴 img 태그가 불필요 하다고 생각한다면,

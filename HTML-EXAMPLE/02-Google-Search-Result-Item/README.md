@@ -1,7 +1,7 @@
 ## Google Search Result Item
 
 ### Screenshot
-<img src="./Google-Search-Result-Item.PNG" alt="구글검색결과">
+<img src="./assets/Google-Search-Result-Item.PNG" alt="구글검색결과">
 
 ### 배운 내용
 ```HTML
