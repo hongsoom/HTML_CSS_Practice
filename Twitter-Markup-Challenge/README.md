@@ -17,7 +17,8 @@
 ### Sectioning Elements들이 공통적으로 지켜야 할 룰
 Sectioning Elements 내에서는 반드시 `heading`태그를 작성해야 한다
 -> 정보를 좀 더 명확하게 전달하기 위해서
-``HTML
+
+```HTML
 <section>
     <h1>섹션의 제목</h1>
     <p>...</p>
