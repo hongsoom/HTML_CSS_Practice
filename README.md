@@ -114,6 +114,9 @@
 
 
 - <a href=".CSS-BASIC/02-Float/Float.md">`Float`
+    
+    - clear
+
 
 - <a href=".CSS-BASIC/03-Position/Position.md">`Position`
 
