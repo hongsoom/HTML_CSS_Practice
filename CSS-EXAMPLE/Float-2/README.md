@@ -1,4 +1,4 @@
-## Float 훈련 1
+## Float 훈련 2
 
 ### Screenshot
 <img src="./assets/float2.PNG" alt="float2">

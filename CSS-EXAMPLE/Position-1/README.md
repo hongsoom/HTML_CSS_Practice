@@ -1,4 +1,4 @@
-## Float 훈련 1
+## Position 훈련 1
 
 ### Screenshot
 <img src="./assets/absolute.PNG" alt="absolute 예제">
