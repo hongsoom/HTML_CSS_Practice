@@ -1,8 +1,5 @@
 ## Float 훈련 1
 
-### Figma 디자인 시안
-https://www.figma.com/file/k6aekBk53MUKUwVqRHsSVx/Bugless-CSS?node-id=0%3A1
-
 ### Screenshot
 <img src="./assets/float1.PNG" alt="float1">
 
