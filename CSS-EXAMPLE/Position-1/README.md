@@ -1,7 +1,7 @@
 ## Position 훈련 1
 
 ### Screenshot
-<img src="./assets/absolute.PNG" alt="absolute 예제">
+<img src="./assets/absolute.PNG" alt="absolute 예제"/>
 
 ### 배운 내용
 
