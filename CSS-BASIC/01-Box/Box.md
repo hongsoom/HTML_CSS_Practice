@@ -10,36 +10,39 @@ box가 일정한 형태의 모델로 구성한 것을 `Box Model`
 
 - Content
 
-요소의 텍스트나 이미지 등의 실제 내용이 위치하는 영역 <br/>
-가로는 `wdith`, 세로는 `height`
+  요소의 텍스트나 이미지 등의 실제 내용이 위치하는 영역
+
+  가로는 `wdith`, 세로는 `height`
 
 - Padding
 
-테두리(Border) 안쪽에 위치하는 요소의 내부 여백 영역, 즉 content와 border 사이의 공간
+  테두리(Border) 안쪽에 위치하는 요소의 내부 여백 영역
+  
+  즉, content와 border 사이의 공간
 
-```CSS
-padding : top right bottom left
-```
+  ```CSS
+  padding : top / right / bottom / left
+  ```
 
 - Border
 
-테두리 영역
+  테두리 영역
 
-```CSS
-border: 굵기 스타일 색상;
-border : none;
-border-radius: px / 50%;
-```
+  ```CSS
+  border: 굵기 스타일 색상;
+  border : none;
+  border-radius: px / 50%;
+  ```
 
 - Margin
 
-테두리(Border) 바깥에 위치하는 요소의 외부 여백 영역, 즉 요소와 요소의 간격
+  테두리(Border) 바깥에 위치하는 요소의 외부 여백 영역, 즉 요소와 요소의 간격
 
-```CSS
-margin : top right bottom left;
+  ```CSS
+  margin : top / right / bottom / left;
 
-margin : 0 auto; // 가운데 정렬
-```
+  margin : 0 auto; // 가운데 정렬
+  ```
 
 ## ② Box Sizing
 
@@ -91,15 +94,15 @@ display : block / inline / block-inline / flex
 
   - form
 
-1. 따로 width를 선언하지 않은 경우, **width = 부모의 content-box의 100%**
+- 따로 width를 선언하지 않은 경우, **width = 부모의 content-box의 100%**
 
-2. 따로 width를 선언한 경우, **남은 공간은 margin으로 자동으로 채움**
+- 따로 width를 선언한 경우, **남은 공간은 margin으로 자동으로 채움**
 
-또한, margin : 0 auto;를 선언하면 가운데 정렬이 가능함 
+  또한, margin : 0 auto;를 선언하면 가운데 정렬이 가능함 
 
--> 다음 요소가 자기 범위에 올라오지 못하도록 막는 성질
+▶ 다음 요소가 자기 범위에 올라오지 못하도록 막는 성질
 
-3. 따로 height를 선언하지 않은 경우, **자식 요소의 height의 합 = 부모의 height**
+- 따로 height를 선언하지 않은 경우, **자식 요소의 height의 합 = 부모의 height**
 
 #### ② inline
 
@@ -136,7 +139,9 @@ display : block / inline / block-inline / flex
 
 #### ③ inline-block
 
-block과 inline 레벨 요소의 특징을 모두 갖는다. inline 레벨 요소와 같이 한 줄에 표현되면서 width, height, margin 프로퍼티를 모두 지정할 수 있다.
+block과 inline 레벨 요소의 특징을 모두 갖는다.
+
+inline 레벨 요소와 같이 한 줄에 표현되면서 width, height, margin 프로퍼티를 모두 지정할 수 있다.
 
 - 기본적으로 inline 레벨 요소와 흡사하게 줄을 바꾸지 않고 다른 요소와 함께 한 행에 위치시킬 수 있다.
 

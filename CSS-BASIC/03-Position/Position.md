@@ -14,7 +14,9 @@ float 처럼 붕 뜨는 것
 
 ### ② relative
 
-- 기준 : 자기자신의 자리
+- 기준 
+    
+    자기자신의 자리
 
 - top, left, bottom, right
 
@@ -22,11 +24,11 @@ float 처럼 붕 뜨는 것
 
 - 기준 
 
-자신을 감싸고 있는 여러 조상 중 자신이 원하는 기준을 선택할 수 있다. 
+    자신을 감싸고 있는 여러 조상 중 자신이 원하는 기준을 선택할 수 있다. 
 
-하지만 `position : static`이 아닌 요소만 가능하다.
+    하지만 `position : static`이 아닌 요소만 가능하다.
 
-즉, relative | absolute | fixed | sticky 만 가능
+    즉, relative | absolute | fixed | sticky 만 가능
 
 - top, left, bottom, right
 
@@ -42,7 +44,9 @@ float 처럼 붕 뜨는 것
 
 ### ④ fixed
 
-- 기준 : viewport
+- 기준 
+    
+    viewport
 
 - top, left, bottom, right
 
@@ -59,6 +63,7 @@ postition된 요소들의 **수직 방향**의 위치를 알려주는 속성
 즉, z축으로 내가 몇번째 레벨에 있는지
 
 `예시 : 빨강 박스가 노랑 박스를 덮어야 하는 경우`
+
 <img src="./assets/z-index.PNG" alt="z-index 예시1" />
 
 덮으려면 빨강 박스가 노랑 박스보다 위층에 있어야 한다.

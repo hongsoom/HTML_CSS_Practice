@@ -39,7 +39,10 @@ inline 박스 모델들
 ```
 <img src="./assets/Float6.PNG" alt="float예시6" />
 
-❌❌❌❌❌❌❌ `block`의 속성 중 따로 width를 선언하지 않은 경우, **width = 부모의 content-box의 100%** 즉, 화면 크기 전체의 가로폭을 차지한다는 여기서 되지 않는다. ❌❌❌❌❌❌❌
+- - -
+
+❌❌❌❌❌❌❌ `block`의 속성 중 따로 width를 선언하지 않은 경우, **width = 부모의 content-box의 100%** 
+즉, 화면 크기 전체의 가로폭을 차지한다는 여기서 되지 않는다. ❌❌❌❌❌❌❌
 
 ➡ 자신의 갖고 있는 content 크기 만큼만 줄어든다. 이말은 즉슨 **Float를 시키면 그 content 크기 만큼 붕 뜬다.**
 
@@ -57,6 +60,7 @@ block 박스 모델들 height: 200px; line-height: 200px;
 ```
 <img src="./assets/Float8.PNG" alt="float예시8" />
 
+- - -
 
 ❌❌❌❌❌❌❌ `block`의 속성 중 따로 따로 width를 선언한 경우, **남은 공간은 margin으로 자동으로 채움** 역시 여기서 되지 않는다.❌❌❌❌❌❌❌
 
