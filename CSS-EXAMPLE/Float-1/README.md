@@ -1,7 +1,7 @@
 ## Float 훈련 1
 
 ### Screenshot
-<img src="./assets/float1.PNG" alt="float1">
+<img src="./assets/float1.PNG" alt="float1" />
 
 ### 배운 내용
 ```HTML
